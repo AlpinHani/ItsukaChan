@@ -10,7 +10,7 @@ const defaultMenu = {
   header: '*%category*',
   body: '• %cmd %islimit %isPremium',
   footer: '',
-  after: `Bantu Follow Kak :\nTikTok : @pnggilajacn\nInstagram : @pnggilajacn\nGithub : Chandra-XD`,
+  after: `Bantu Follow Kak :\nTikTok : @alpnyy._\nInstagram : @finzzx _\nGithub : AlpinHani`,
 }
 
 let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
